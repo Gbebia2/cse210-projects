@@ -1,5 +1,7 @@
 using System;
 
+// Added code to stop 'load from file' execution if the file doesn't exist
+
 class Program
 {
     static void Main(string[] args)
